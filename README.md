@@ -1,8 +1,3 @@
-///***FireBase Credential***///
-mail: muthukumar.shenll@gmail.com
-password : Shenll@2016
-
-
 Quiz 2 task project for Operr Team
 
 
